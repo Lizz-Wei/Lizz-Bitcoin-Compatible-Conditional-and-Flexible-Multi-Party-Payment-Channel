@@ -1,4 +1,4 @@
-# Lizz-Bitcoin-Compatible-Conditionality-and-Flexibility-Multi-Party-Payment-Channel
+# Lizz-Bitcoin-Compatible-Conditional-and-Flexible-Multi-Party-Payment-Channel
 
 Lizz is a Bitcoin-compatible multi-party conditional payment channel. It is designed to rely on digital signatures and time locks in order to minimize the requirements for blockchain system scripting functionality. A semi-trusted board of users coordinates user payments and verifies that payment conditions are met.
 
