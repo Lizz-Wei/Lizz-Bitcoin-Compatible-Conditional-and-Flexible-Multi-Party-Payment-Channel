@@ -1,4 +1,3 @@
-PS C:\Users\Administrator> cd C:\实验代码\TPC
 PS C:\实验代码\TPC> python TPC.py
 注资交易费用为:6115satoshi, 3.7749062965$
 交易ID为： 87ee14235fe0d5cd6b8363639ce08047c9a4627b96dd2a50b02a9dfc9eb2c396
